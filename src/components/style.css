@@ -1,0 +1,25 @@
+.list-elem {
+
+    background-color: rgb(177, 184, 184);
+    margin-bottom: 5px;
+    margin-left: 80px;
+    margin-right: 80px;
+    flex: auto;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: large;
+
+
+}
+
+.input-text {
+    margin-bottom: 3%;
+    font-size: x-large;
+}
+
+.add-button {
+    font-size: x-large;
+    margin-left: 5px;
+}
