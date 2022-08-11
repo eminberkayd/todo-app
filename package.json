@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npx surge"
+    "deploy": "npm run build && npx surge"
   },
   "eslintConfig": {
     "extends": [
